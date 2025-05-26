@@ -1,0 +1,7 @@
+{
+  "name": "cy-sauce",
+  "packageManager": "yarn@4.9.1",
+  "dependencies": {
+    "cypress": "^14.4.0"
+  }
+}
